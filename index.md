@@ -6,29 +6,29 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Link to M-0](./Exp00_LearnToLab.html).
+[Link to M-0](./Fall/Exp00_LearnToLab.html).
 
-[Link to M-1](./Exp01_VectorTable.html).
+[Link to M-1](./Fall/Exp01_VectorTable.html).
 
-[Link to M-2](./Exp02_AccelG_Track.html).
+[Link to M-2](./Fall/Exp02_AccelG_Track.html).
 
-[Link to M-3](./Exp03_SimpleProjectile.html).
+[Link to M-3](./Fall/Exp03_SimpleProjectile.html).
 
-[Link to M-4](./Exp04_CentripetalForce.html).
+[Link to M-4](./Fall/Exp04_CentripetalForce.html).
 
-[Link to M-5](./Exp05_ConsEnergy_Track.html).
+[Link to M-5](./Fall/Exp05_ConsEnergy_Track.html).
 
-[Link to M-6](./Exp06_BallisticPend_Projectile.html).
+[Link to M-6](./Fall/Exp06_BallisticPend_Projectile.html).
 
-[Link to M-7](./Exp07_calc_1171L_RotMotion.html).
+[Link to M-7](./Fall/Exp07_calc_1171L_RotMotion.html).
 
-[Link to H-7](./Exp07_life_1145L_IdealGasLaw.html).
+[Link to H-7](./Fall/Exp07_life_1145L_IdealGasLaw.html).
 
-[Link to M-8](./Exp08_FluidPhysics.html).
+[Link to M-8](./Fall/Exp08_FluidPhysics.html).
 
-[Link to M-9](./Exp09_SimpleHarmonicMotion.html).
+[Link to M-9](./Fall/Exp09_SimpleHarmonicMotion.html).
 
-[Link to M-10](./Exp10_SimplePendulum.html).
+[Link to M-10](./Fall/Exp10_SimplePendulum.html).
 
 There should be whitespace between paragraphs.
 
